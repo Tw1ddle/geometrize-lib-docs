@@ -21,7 +21,7 @@ addons:
 script:
   - pushd doxygen
   - doxygen doxygen_config
-  - popd doxygen
+  - popd
 
 # Deploy using Travis builtin GitHub Pages support
 deploy:
