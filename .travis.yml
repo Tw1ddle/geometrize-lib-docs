@@ -1,11 +1,17 @@
 # This will run on Travis' 'new' container-based infrastructure
 sudo: false
 
+# Add encrypted API key
+env:
+  global:
+    - secure: BzWJKztXzuCWDi/eNYLZj6nOpcX1bbTriH86O20gSqUJerhXbHL/uMGarCYPuQSegS1ztOU4BU+QdGW5rzTGOfh1sWAPSTWpZ3fnXuMkiw/e3adiijuyDZ00UsxBHEyssOyiLEPtxJVEM9teckof3By6sABbo0lr+jxhvfLRSR7YOUOtacBEbY40HSBr6qhEdTG/bNPBqyfk2vXTzccPW+RCC0GpegcoEHeGRpnxImCYpWNU2NJcpx2N1huaKNr7zzeXeDMDy54O2RlqfuW3p3kKTTinshACZtuuoYo09l2hr+f0ZDGrNgRi7rV+FO1LzuOYdful5sRhUZulDdluwojGIllkmBycx0724FS+doISqWp9VqX1zN5kZsSPK1IA/51MfHH73+wHPQZoaUJhIn4JHDqiS2e9KrR6kViAiJzSKPxZwYbUyer5ClkIS+MGbSMFrIYJV4i4zuLbYX1B1gJKiE/+qK422SfnKzVHG34p2b+T2LqZt1N0RXFMOhhqsJPMd19D47pD3029FXeVYsZTRr2p7/NujrirYJmDrazH5GmfyA44F3bcSllMCq52S87KWjodCAvdBlBv3qGvtGlPdwDaIU2RIhlT+xM96P9HqyzIL8gq0HM1DloLBxI+0me4bQ5bRDOtVWayZyxASb5rkl+kBNvMooED77a0Du8=
+
 # Get the latest version of the Geometrize library submodule, and push it to the remote (if necessary)
 before_install:
   - chmod +x ./travis_update_geometrize_submodule.sh
   - ./travis_update_geometrize_submodule.sh
 
+  
 # Blacklist
 branches:
   only:
