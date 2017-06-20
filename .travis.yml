@@ -1,6 +1,13 @@
 # This will run on Travis' 'new' container-based infrastructure
 sudo: false
 
+# Disable the default submodule logic
+git:
+  submodules: false
+
+# Ensure we get the latest version of the (Geometrize library) submodule
+before_install:
+  - git submodule update --init --recursive
 
 # Blacklist
 branches:
@@ -23,7 +30,7 @@ script:
   - doxygen doxygen_config
   - popd
 
-# Deploy using Travis builtin GitHub Pages support
+# Deploy the generated documentation using Travis builtin GitHub Pages support
 deploy:
   provider: pages
   skip_cleanup: true
@@ -31,3 +38,7 @@ deploy:
   github_token: $GITHUB_API_KEY
   on:
     branch: master
+
+after_success:
+  - git add geometrize
+  - git commit -m "Travis build bot updating Geometrize library submodule"
