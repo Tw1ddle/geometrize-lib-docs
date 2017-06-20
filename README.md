@@ -1,6 +1,9 @@
 [![Geometrize Logo](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/screenshots/logo.png?raw=true "Geometrize library logo")](https://github.com/Tw1ddle/geometrize-lib)
 
-This repository contains Doxygen documentation generation config files for Geometrize.
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/LICENSE)
+[![Travis Unit Test Build Status](https://img.shields.io/travis/Tw1ddle/geometrize-lib-docs.svg?style=flat-square)](https://travis-ci.org/Tw1ddle/geometrize-lib-docs)
+
+This repository contains Doxygen documentation and documentation generation config files for the [Geometrize library](https://github.com/Tw1ddle/geometrize-lib).
 
 ## Usage
 * Download and install Doxygen, add it to your path.
