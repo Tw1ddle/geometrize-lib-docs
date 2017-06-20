@@ -1,4 +1,4 @@
-#!bin/sh
+#!/bin/bash
 
 git submodule update --remote --merge
 
