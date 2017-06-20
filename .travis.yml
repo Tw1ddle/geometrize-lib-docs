@@ -1,13 +1,15 @@
 # This will run on Travis' 'new' container-based infrastructure
 sudo: false
 
-# Disable the default submodule logic
-git:
-  submodules: false
-
-# Ensure we get the latest version of the (Geometrize library) submodule
+# Get the latest version of the Geometrize library submodule
 before_install:
-  - git submodule update --init --recursive
+  - git submodule update --remote --merge
+  - git config --global user.email "travis@travis-ci.org"
+  - git config --global user.name "Travis CI Bot"
+  - git add geometrize
+  - git commit --message "Travis bot updating to latest Geometrize submodule"
+  - git remote add origin https://${GITHUB_API_KEY}@github.com/Tw1ddle/geometrize-lib-docs.git > /dev/null 2>&1
+  - git push origin master
 
 # Blacklist
 branches:
@@ -38,7 +40,3 @@ deploy:
   github_token: $GITHUB_API_KEY
   on:
     branch: master
-
-after_success:
-  - git add geometrize
-  - git commit -m "Travis build bot updating Geometrize library submodule"
