@@ -8,7 +8,7 @@ before_install:
   - git config --global user.name "Travis CI Bot"
   - git checkout master
   - git add geometrize
-  - git commit --message "Travis bot updating to latest Geometrize submodule"
+  - git commit --allow-empty --message "Travis bot updating submodule and rebuilding documentation"
   - git remote add origin https://${GITHUB_API_KEY}@github.com/Tw1ddle/geometrize-lib-docs.git > /dev/null 2>&1
   - git push origin master
 
