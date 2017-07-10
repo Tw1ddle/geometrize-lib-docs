@@ -6,7 +6,7 @@
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = Geometrize
 PROJECT_NUMBER         = 1.0
-PROJECT_BRIEF          = "Portable C++ library for recreating images as sets of geometric primitives."
+PROJECT_BRIEF          = "C++ library for geometrizing images into geometric primitives"
 PROJECT_LOGO           = "logo_small.png"
 OUTPUT_DIRECTORY       = "../docs"
 CREATE_SUBDIRS         = NO

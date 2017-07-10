@@ -1,4 +1,4 @@
-This is the Doxygen documentation for the [Geometrize](https://github.com/Tw1ddle/geometrize-lib) library, a toolkit for geometrizing images into geometric primitives.
+Documentation for the [Geometrize](https://github.com/Tw1ddle/geometrize-lib) library, a toolkit for geometrizing images into geometric primitives.
 
 A good way to start with the Geometrize library is by looking at the [unit](https://github.com/Tw1ddle/geometrize-lib-unit-tests) and [fuzz](https://github.com/Tw1ddle/geometrize-lib-fuzzing) tests.
 

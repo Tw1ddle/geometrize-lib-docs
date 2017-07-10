@@ -3,7 +3,7 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/LICENSE)
 [![Travis Documentation Build Status](https://img.shields.io/travis/Tw1ddle/geometrize-lib-docs.svg?style=flat-square)](https://travis-ci.org/Tw1ddle/geometrize-lib-docs)
 
-This is the Doxygen documentation for the [Geometrize](https://github.com/Tw1ddle/geometrize-lib) library, a toolkit for geometrizing images into geometric primitives. Read the latest documentation [here](http://docs.geometrize.co.uk).
+Documentation for the [Geometrize](https://github.com/Tw1ddle/geometrize-lib) library, a toolkit for geometrizing images into geometric primitives. Read the latest documentation [here](http://docs.geometrize.co.uk).
 
 The documentation is automatically updated each time this repository or the main Geometrize library repository is changed.
 
