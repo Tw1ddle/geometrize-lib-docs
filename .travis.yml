@@ -1,4 +1,4 @@
-# This will run on Travis' 'new' container-based infrastructure
+dist: trusty
 sudo: false
 
 # Add encrypted API key
