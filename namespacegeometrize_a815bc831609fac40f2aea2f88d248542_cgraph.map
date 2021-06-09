@@ -1,0 +1,5 @@
+<map id="geometrize::shapeContains" name="geometrize::shapeContains">
+<area shape="rect" id="node2" href="$namespacegeometrize.html#a792bef9edb785a231f1361a1be805e9d" title="scanlinesContain Returns true if the first vector of scanlines wholly contain the second vector of sc..." alt="" coords="235,5,429,32"/>
+<area shape="rect" id="node3" href="$namespacegeometrize.html#ac043e232687866dfe8ee1e1fa884d434" title="geometrize::rasterize" alt="" coords="260,56,404,83"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1_shape.html#ae9e21dbdef11429d28a2dc46caf7fb41" title="getType Gets the ShapeType of the shape. " alt="" coords="477,49,616,90"/>
+</map>

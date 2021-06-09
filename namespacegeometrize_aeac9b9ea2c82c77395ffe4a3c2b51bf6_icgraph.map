@@ -1,0 +1,4 @@
+<map id="geometrize::setup" name="geometrize::setup">
+<area shape="rect" id="node2" href="$namespacegeometrize.html#abc61a62c8023969f40f477e8e4c72487" title="createDefaultShapeCreator Creates an instance of the default shape creator object. The setup, mutate and rasterize methods are bound with default methods. " alt="" coords="182,5,354,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_image_runner_1_1_image_runner_impl.html#a0eee8aa37166a9a861de9b57045bdc32" title="geometrize::ImageRunner\l::ImageRunnerImpl::step" alt="" coords="403,5,575,46"/>
+</map>

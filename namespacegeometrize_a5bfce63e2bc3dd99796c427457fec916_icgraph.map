@@ -1,0 +1,4 @@
+<map id="geometrize::getRawShapeData" name="geometrize::getRawShapeData">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1exporter.html#a812d3e209426d52a90bfd1ce841e6c08" title="exportShapeArray Exports shape data to a compact array&#45;style format. Data is three lines per shape..." alt="" coords="259,5,400,46"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1exporter.html#a65468e6cc995eda23ee61317ff3e9d26" title="exportShapeJson Exports shape data to JSON. " alt="" coords="259,70,400,111"/>
+</map>

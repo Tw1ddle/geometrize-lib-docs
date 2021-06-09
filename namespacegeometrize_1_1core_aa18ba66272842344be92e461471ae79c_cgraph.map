@@ -1,0 +1,11 @@
+<map id="geometrize::core::defaultEnergyFunction" name="geometrize::core::defaultEnergyFunction">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1core.html#a9b3c5f53664cf0a84fc1e789a24fd220" title="computeColor Calculates the color of the scanlines. " alt="" coords="225,129,402,170"/>
+<area shape="rect" id="node5" href="$namespacegeometrize.html#acb0746647a6799ff26ec1405ee927f78" title="copyLines Copies source pixels to a destination defined by a set of scanlines. " alt="" coords="237,27,390,53"/>
+<area shape="rect" id="node7" href="$namespacegeometrize.html#a8235efcd62ef6bd0478d8fa9dd6df034" title="drawLines Draws scanlines onto an image. " alt="" coords="237,77,390,104"/>
+<area shape="rect" id="node8" href="$namespacegeometrize_1_1core.html#ab240d6154564e23772657e408b2775b3" title="differencePartial Calculates the root&#45;mean&#45;square error between the parts of the two bitmaps within t..." alt="" coords="221,197,405,238"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_bitmap.html#a8e285a19df56eed375a2c8fe0680ce64" title="getPixel Gets a pixel color value. " alt="" coords="467,70,602,111"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1commonutil.html#a31e1f80ca7a55bd9b85dd8c7e8d4196a" title="clamp Clamps a value within a range. " alt="" coords="454,135,615,177"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1_bitmap.html#aa5b22e648397f07c4d7fa44b464d9f64" title="setPixel Sets a pixel color value. " alt="" coords="467,5,602,46"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1_bitmap.html#aa08e26cc3ca8a9f600552a24e63d04d5" title="getWidth Gets the width of the bitmap. " alt="" coords="467,266,602,307"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1_bitmap.html#a7b55cff8032eb899adf69b8df1a5e0f8" title="getHeight Gets the height of the bitmap. " alt="" coords="467,201,602,242"/>
+</map>

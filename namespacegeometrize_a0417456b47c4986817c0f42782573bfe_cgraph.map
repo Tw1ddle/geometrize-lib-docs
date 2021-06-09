@@ -1,0 +1,5 @@
+<map id="geometrize::shapesOverlap" name="geometrize::shapesOverlap">
+<area shape="rect" id="node2" href="$namespacegeometrize.html#acc8e6f54b065c8849428521d364871cc" title="scanlinesOverlap Returns true if any of the scanlines from the first vector overlap the second ..." alt="" coords="235,5,429,32"/>
+<area shape="rect" id="node3" href="$namespacegeometrize.html#ac043e232687866dfe8ee1e1fa884d434" title="geometrize::rasterize" alt="" coords="260,56,404,83"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1_shape.html#ae9e21dbdef11429d28a2dc46caf7fb41" title="getType Gets the ShapeType of the shape. " alt="" coords="477,49,616,90"/>
+</map>

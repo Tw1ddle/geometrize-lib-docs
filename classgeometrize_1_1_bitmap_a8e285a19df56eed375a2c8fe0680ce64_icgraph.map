@@ -1,0 +1,15 @@
+<map id="geometrize::Bitmap::getPixel" name="geometrize::Bitmap::getPixel">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1core.html#a9b3c5f53664cf0a84fc1e789a24fd220" title="computeColor Calculates the color of the scanlines. " alt="" coords="203,7,381,48"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1core.html#a8b3c06b7ce98153efba417917ba7c6ed" title="differenceFull Calculates the root&#45;mean&#45;square error between two bitmaps. " alt="" coords="189,241,395,267"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1core.html#ab240d6154564e23772657e408b2775b3" title="differencePartial Calculates the root&#45;mean&#45;square error between the parts of the two bitmaps within t..." alt="" coords="200,124,384,165"/>
+<area shape="rect" id="node11" href="$namespacegeometrize_1_1exporter.html#aac7807efa1495d55fbe57fdeb98baddd" title="exportBitmapData Exports the raw image data to a binary dump &#45; just the data as RGBA8888, no zero&#45;padding or anything. " alt="" coords="221,292,363,333"/>
+<area shape="rect" id="node12" href="$namespacegeometrize_1_1exporter.html#af19dd31adcbc080d93b8102229380cb6" title="exportBMP Exports the image data to a RGB888 bitmap image file (BMP). " alt="" coords="221,357,363,399"/>
+<area shape="rect" id="node13" href="$namespacegeometrize.html#a8235efcd62ef6bd0478d8fa9dd6df034" title="drawLines Draws scanlines onto an image. " alt="" coords="215,190,369,217"/>
+<area shape="rect" id="node14" href="$namespacegeometrize.html#acb0746647a6799ff26ec1405ee927f78" title="copyLines Copies source pixels to a destination defined by a set of scanlines. " alt="" coords="215,73,369,99"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1core.html#aa18ba66272842344be92e461471ae79c" title="defaultEnergyFunction The default/built&#45;in energy function that calculates a measure of the improveme..." alt="" coords="443,65,610,107"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1_model_1_1_model_impl.html#af4b1e82268fdc9d163dbf0fffdb6f781" title="geometrize::Model::\lModelImpl::step" alt="" coords="1118,95,1255,136"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1core.html#ae526811239eef4bf30391c951afed129" title="bestHillClimbState Gets the best state using a hill climbing algorithm. " alt="" coords="659,65,829,107"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1_model_1_1_model_impl.html#a73131ba0899d810fa40723b5416b0dd8" title="geometrize::Model::\lModelImpl::getHillClimbState" alt="" coords="877,65,1069,107"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1_model_1_1_model_impl.html#a67a5f35db45bfc0e29b481baa87dcf14" title="geometrize::Model::\lModelImpl::reset" alt="" coords="458,300,595,341"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1_model_1_1_model_impl.html#ab8d77fccb4778e9bc60b14c43f705634" title="geometrize::Model::\lModelImpl::drawShape" alt="" coords="449,183,604,224"/>
+</map>

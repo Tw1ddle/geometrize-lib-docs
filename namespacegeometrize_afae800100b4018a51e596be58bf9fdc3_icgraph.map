@@ -1,0 +1,5 @@
+<map id="geometrize::bresenham" name="geometrize::bresenham">
+<area shape="rect" id="node2" href="$namespacegeometrize.html#ac67ca540b8c7b84929d8d5a4880dec90" title="scanlinesForPolygon Gets the scanlines for a series of points that make up an arbitrary polygon..." alt="" coords="213,5,381,46"/>
+<area shape="rect" id="node4" href="$namespacegeometrize.html#a4ffca15f0d2cb9aa63d45642db852e7a" title="geometrize::rasterize" alt="" coords="225,71,369,97"/>
+<area shape="rect" id="node3" href="$namespacegeometrize.html#a83260a1eaf7ae682085483db5d26b120" title="geometrize::rasterize" alt="" coords="429,12,573,39"/>
+</map>

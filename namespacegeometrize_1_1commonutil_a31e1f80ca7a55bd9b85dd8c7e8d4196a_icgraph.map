@@ -1,0 +1,11 @@
+<map id="geometrize::commonutil::clamp" name="geometrize::commonutil::clamp">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1core.html#a9b3c5f53664cf0a84fc1e789a24fd220" title="computeColor Calculates the color of the scanlines. " alt="" coords="217,46,394,87"/>
+<area shape="rect" id="node7" href="$namespacegeometrize.html#a1410b9eb0f1dd62739c1bec9443a9c22" title="geometrize::rasterize" alt="" coords="455,137,599,164"/>
+<area shape="rect" id="node8" href="$namespacegeometrize.html#a8d4b7e6bb5f46ea381b8672c33e192ac" title="trimScanlines Crops the scanning width of an array of scanlines so they do not scan outside of the gi..." alt="" coords="219,163,392,189"/>
+<area shape="rect" id="node9" href="$namespacegeometrize.html#a6e753de7dc9470d8e180682e71ff4620" title="geometrize::setup" alt="" coords="242,213,369,240"/>
+<area shape="rect" id="node10" href="$namespacegeometrize.html#ae85303613e43966c635b0467860539d1" title="geometrize::mutate" alt="" coords="238,264,373,291"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1core.html#aa18ba66272842344be92e461471ae79c" title="defaultEnergyFunction The default/built&#45;in energy function that calculates a measure of the improveme..." alt="" coords="443,5,610,46"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1_model_1_1_model_impl.html#af4b1e82268fdc9d163dbf0fffdb6f781" title="geometrize::Model::\lModelImpl::step" alt="" coords="1118,34,1255,75"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1core.html#ae526811239eef4bf30391c951afed129" title="bestHillClimbState Gets the best state using a hill climbing algorithm. " alt="" coords="659,5,829,46"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1_model_1_1_model_impl.html#a73131ba0899d810fa40723b5416b0dd8" title="geometrize::Model::\lModelImpl::getHillClimbState" alt="" coords="877,5,1069,46"/>
+</map>

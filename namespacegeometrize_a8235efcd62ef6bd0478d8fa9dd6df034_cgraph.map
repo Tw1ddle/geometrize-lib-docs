@@ -1,0 +1,4 @@
+<map id="geometrize::drawLines" name="geometrize::drawLines">
+<area shape="rect" id="node2" href="$classgeometrize_1_1_bitmap.html#a8e285a19df56eed375a2c8fe0680ce64" title="getPixel Gets a pixel color value. " alt="" coords="209,5,343,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_bitmap.html#aa5b22e648397f07c4d7fa44b464d9f64" title="setPixel Sets a pixel color value. " alt="" coords="209,70,343,111"/>
+</map>

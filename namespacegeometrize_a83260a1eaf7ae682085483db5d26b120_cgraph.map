@@ -1,0 +1,7 @@
+<map id="geometrize::rasterize" name="geometrize::rasterize">
+<area shape="rect" id="node2" href="$namespacegeometrize.html#a0c5bbb6a0ee49c5c610c297fb5158ed8" title="getPointsOnRotatedEllipse Calculates and returns a number of points on the given rotated ellipse..." alt="" coords="198,5,410,46"/>
+<area shape="rect" id="node3" href="$namespacegeometrize.html#ac67ca540b8c7b84929d8d5a4880dec90" title="scanlinesForPolygon Gets the scanlines for a series of points that make up an arbitrary polygon..." alt="" coords="220,70,388,111"/>
+<area shape="rect" id="node5" href="$namespacegeometrize.html#a8d4b7e6bb5f46ea381b8672c33e192ac" title="trimScanlines Crops the scanning width of an array of scanlines so they do not scan outside of the gi..." alt="" coords="217,136,391,163"/>
+<area shape="rect" id="node4" href="$namespacegeometrize.html#afae800100b4018a51e596be58bf9fdc3" title="bresenham Bresenham&#39;s line algorithm. Returns the points on the line. " alt="" coords="461,77,619,104"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1commonutil.html#a31e1f80ca7a55bd9b85dd8c7e8d4196a" title="clamp Clamps a value within a range. " alt="" coords="459,129,621,170"/>
+</map>

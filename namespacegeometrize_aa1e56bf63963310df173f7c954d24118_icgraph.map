@@ -1,0 +1,5 @@
+<map id="geometrize::randomShape" name="geometrize::randomShape">
+<area shape="rect" id="node2" href="$namespacegeometrize.html#a028d2a213502903b8ec2f1b42a6f2aec" title="randomShapeOf Creates a random shape from the types supplied. " alt="" coords="230,12,418,39"/>
+<area shape="rect" id="node3" href="$namespacegeometrize.html#abc61a62c8023969f40f477e8e4c72487" title="createDefaultShapeCreator Creates an instance of the default shape creator object. The setup, mutate and rasterize methods are bound with default methods. " alt="" coords="467,5,639,46"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1_image_runner_1_1_image_runner_impl.html#a0eee8aa37166a9a861de9b57045bdc32" title="geometrize::ImageRunner\l::ImageRunnerImpl::step" alt="" coords="689,5,861,46"/>
+</map>

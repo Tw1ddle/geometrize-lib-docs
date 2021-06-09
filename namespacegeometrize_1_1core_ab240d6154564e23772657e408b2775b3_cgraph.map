@@ -1,0 +1,5 @@
+<map id="geometrize::core::differencePartial" name="geometrize::core::differencePartial">
+<area shape="rect" id="node2" href="$classgeometrize_1_1_bitmap.html#aa08e26cc3ca8a9f600552a24e63d04d5" title="getWidth Gets the width of the bitmap. " alt="" coords="238,5,373,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_bitmap.html#a7b55cff8032eb899adf69b8df1a5e0f8" title="getHeight Gets the height of the bitmap. " alt="" coords="238,70,373,111"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1_bitmap.html#a8e285a19df56eed375a2c8fe0680ce64" title="getPixel Gets a pixel color value. " alt="" coords="238,135,373,177"/>
+</map>

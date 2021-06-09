@@ -1,0 +1,5 @@
+<map id="geometrize::randomShapeOf" name="geometrize::randomShapeOf">
+<area shape="rect" id="node2" href="$namespacegeometrize.html#aa1e56bf63963310df173f7c954d24118" title="randomShape Creates a random shape. " alt="" coords="243,45,418,72"/>
+<area shape="rect" id="node3" href="$namespacegeometrize.html#abb6c79d31c87388f1db51d5f5af7c95c" title="create Creates a new shape of the specified type. " alt="" coords="483,5,613,32"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1commonutil.html#a02e0de9d804068f7720402410bd1f390" title="randomRange Returns a random integer in the range, inclusive. Uses thread&#45;local random number generat..." alt="" coords="467,67,629,109"/>
+</map>

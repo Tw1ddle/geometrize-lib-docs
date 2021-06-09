@@ -1,0 +1,4 @@
+<map id="geometrize::rasterize" name="geometrize::rasterize">
+<area shape="rect" id="node2" href="$namespacegeometrize.html#a8d4b7e6bb5f46ea381b8672c33e192ac" title="trimScanlines Crops the scanning width of an array of scanlines so they do not scan outside of the gi..." alt="" coords="197,12,371,39"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1commonutil.html#a31e1f80ca7a55bd9b85dd8c7e8d4196a" title="clamp Clamps a value within a range. " alt="" coords="419,5,581,46"/>
+</map>
