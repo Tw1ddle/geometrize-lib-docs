@@ -113,7 +113,7 @@ WARN_LOGFILE           = "doxygen_warnings.txt"
 # Configuration options related to the input files
 #---------------------------------------------------------------------------
 INPUT                  = "LANDING_PAGE.md" \
-                         "../geometrize/geometrize"
+                         "../geometrize-lib/geometrize"
 INPUT_ENCODING         = UTF-8
 FILE_PATTERNS          = *.c \
                          *.cc \
