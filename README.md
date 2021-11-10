@@ -1,13 +1,13 @@
-[![Geometrize Logo](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/screenshots/logo.png?raw=true "Geometrize library logo")](http://www.geometrize.co.uk/)
+[![Geometrize Logo](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/screenshots/logo.png?raw=true "Geometrize library logo")](https://www.geometrize.co.uk/)
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/LICENSE)
+[![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/LICENSE)
 [![Travis Documentation Build Status](https://img.shields.io/travis/Tw1ddle/geometrize-lib-docs.svg?style=flat-square)](https://travis-ci.org/Tw1ddle/geometrize-lib-docs)
 
-Documentation for the [Geometrize](http://www.geometrize.co.uk/) library, a toolkit for geometrizing images into geometric primitives. Read the latest documentation [here](http://docs.geometrize.co.uk).
+Documentation for the [Geometrize](https://www.geometrize.co.uk/) library, a toolkit for geometrizing images into geometric primitives. Read the latest documentation [here](https://docs.geometrize.co.uk).
 
 The documentation is updated when this repository or the main Geometrize [library repository](https://github.com/Tw1ddle/geometrize-lib) changes.
 
-[![Geometrized Swan](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/screenshots/geometrized_swan.jpg?raw=true "Geometrized Swan")](http://www.geometrize.co.uk/)
+[![Geometrized Swan](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/screenshots/geometrized_swan.jpg?raw=true "Geometrized Swan")](https://www.geometrize.co.uk/)
 
 ## Building Manually
  * Install Doxygen and Graphviz. Add Doxygen and the Dot tool to your path.
