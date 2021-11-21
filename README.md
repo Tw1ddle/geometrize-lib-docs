@@ -1,7 +1,7 @@
 [![Geometrize Logo](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/screenshots/logo.png?raw=true "Geometrize library logo")](https://www.geometrize.co.uk/)
 
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Tw1ddle/geometrize-lib-docs/blob/master/LICENSE)
-[![Geometrize Library Docs Build Status](https://ci.appveyor.com/api/projects/status/github/Tw1ddle/geometrize-lib-docs?branch=master&svg=true)](https://ci.appveyor.com/project/Tw1ddle/geometrize-lib-docs)
+[![Build Status Badge](https://ci.appveyor.com/api/projects/status/github/Tw1ddle/geometrize-lib-docs)](https://ci.appveyor.com/project/Tw1ddle/geometrize-lib-docs)
 
 Documentation for the [Geometrize](https://www.geometrize.co.uk/) library, a toolkit for geometrizing images into geometric primitives. Read the latest documentation [here](https://docs.geometrize.co.uk).
 
