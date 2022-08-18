@@ -1,0 +1,10 @@
+<map id="geometrize::Bitmap::setPixel" name="geometrize::Bitmap::setPixel">
+<area shape="rect" id="node1" title="setPixel Sets a pixel color value." alt="" coords="1160,35,1311,76"/>
+<area shape="rect" id="node2" href="$namespacegeometrize.html#acb0746647a6799ff26ec1405ee927f78" title="copyLines Copies source pixels to a destination defined by a set of scanlines." alt="" coords="942,15,1111,42"/>
+<area shape="rect" id="node7" href="$namespacegeometrize.html#a8235efcd62ef6bd0478d8fa9dd6df034" title="drawLines Draws scanlines onto an image." alt="" coords="941,67,1112,94"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1core.html#aa18ba66272842344be92e461471ae79c" title="defaultEnergyFunction The default/built&#45;in energy function that calculates a measure of the improveme..." alt="" coords="707,5,893,47"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1core.html#ae526811239eef4bf30391c951afed129" title="bestHillClimbState Gets the best state using a hill climbing algorithm." alt="" coords="468,5,659,47"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1_model_1_1_model_impl.html#a77eafc18e18103c143d550632c62dfb1" title=" " alt="" coords="205,5,420,47"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1_model_1_1_model_impl.html#aaebc9fc36880a499ae2f1b22e3609858" title=" " alt="" coords="5,35,157,76"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1_model_1_1_model_impl.html#ab8d77fccb4778e9bc60b14c43f705634" title=" " alt="" coords="715,123,885,164"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="geometrize::Bitmap::getDataRef" name="geometrize::Bitmap::getDataRef">
+<area shape="rect" id="node1" title="getDataRef Gets a reference to the raw bitmap data." alt="" coords="236,5,387,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1commonutil.html#a4bd394bcd9de4e09ef50947064dd9313" title="getAverageImageColor Computes the average RGB color of the pixels in the bitmap." alt="" coords="5,5,188,47"/>
+</map>

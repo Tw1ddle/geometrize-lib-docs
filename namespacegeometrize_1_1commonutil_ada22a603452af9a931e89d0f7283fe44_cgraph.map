@@ -1,0 +1,5 @@
+<map id="geometrize::commonutil::mapShapeBoundsToImage" name="geometrize::commonutil::mapShapeBoundsToImage">
+<area shape="rect" id="node1" title="mapShapeBoundsToImage Maps the given shape bound percentages to the given image, returning a bounding..." alt="" coords="5,39,208,80"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1_bitmap.html#a1fb235e2f98d3b1bffc417a8761a3e4c" title="getHeight Gets the height of the bitmap." alt="" coords="256,5,407,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_bitmap.html#a870373372ffd3c860063d7bf76607d55" title="getWidth Gets the width of the bitmap." alt="" coords="256,71,407,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="geometrize::ImageRunnerOptions" name="geometrize::ImageRunnerOptions">
+<area shape="rect" id="node1" title="The ImageRunnerOptions class encapsulates preferences/options that the image runner uses." alt="" coords="5,109,247,136"/>
+<area shape="rect" id="node2" href="$structgeometrize_1_1_image_runner_shape_bounds_options.html" title="The ImageRunnerShapeBoundsOptions struct encapsulates options for where shapes may be drawn within th..." alt="" coords="11,5,241,47"/>
+</map>

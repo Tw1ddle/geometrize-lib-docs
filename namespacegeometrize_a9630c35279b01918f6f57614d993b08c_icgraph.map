@@ -1,0 +1,5 @@
+<map id="geometrize::trimScanlines" name="geometrize::trimScanlines">
+<area shape="rect" id="node1" title="trimScanlines Crops the scanning width of an array of scanlines so they do not scan outside of the gi..." alt="" coords="271,39,464,65"/>
+<area shape="rect" id="node2" href="$namespacegeometrize.html#a77e9effb388d12acd8562b290359e52b" title=" " alt="" coords="33,5,195,32"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1commonutil.html#a62db3f0f4aec70b283f1020cb1df6a87" title="scanlinesContainTransparentPixels Returns true if the scanlines contain transparent pixels in the giv..." alt="" coords="5,56,223,112"/>
+</map>

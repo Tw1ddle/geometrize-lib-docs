@@ -1,0 +1,4 @@
+<map id="geometrize::exporter::exportSingleShapeSVG" name="geometrize::exporter::exportSingleShapeSVG">
+<area shape="rect" id="node1" title="exportSVG Exports a single shape as a complete SVG image." alt="" coords="5,29,184,71"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1exporter.html#a367cdcbdd8b58027935bc944686fd51c" title="getSvgShapeData Gets the SVG data for a single shape. This is just the &lt;rect&gt;/&lt;path&gt; etc block for th..." alt="" coords="232,29,421,71"/>
+</map>

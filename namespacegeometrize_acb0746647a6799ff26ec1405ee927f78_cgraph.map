@@ -1,0 +1,5 @@
+<map id="geometrize::copyLines" name="geometrize::copyLines">
+<area shape="rect" id="node1" title="copyLines Copies source pixels to a destination defined by a set of scanlines." alt="" coords="5,46,175,73"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1_bitmap.html#ac79681e7353058d37a677b2c3e488d0c" title="getPixel Gets a pixel color value." alt="" coords="223,5,373,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_bitmap.html#aa5b22e648397f07c4d7fa44b464d9f64" title="setPixel Sets a pixel color value." alt="" coords="223,71,373,112"/>
+</map>

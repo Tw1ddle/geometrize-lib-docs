@@ -1,0 +1,12 @@
+<map id="geometrize::core::defaultEnergyFunction" name="geometrize::core::defaultEnergyFunction">
+<area shape="rect" id="node1" title="defaultEnergyFunction The default/built&#45;in energy function that calculates a measure of the improveme..." alt="" coords="5,111,192,152"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1core.html#a9b3c5f53664cf0a84fc1e789a24fd220" title="computeColor Calculates the color of the scanlines." alt="" coords="244,27,441,68"/>
+<area shape="rect" id="node5" href="$namespacegeometrize.html#acb0746647a6799ff26ec1405ee927f78" title="copyLines Copies source pixels to a destination defined by a set of scanlines." alt="" coords="258,93,427,119"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1core.html#ab240d6154564e23772657e408b2775b3" title="differencePartial Calculates the root&#45;mean&#45;square error between the parts of the two bitmaps within t..." alt="" coords="240,197,445,239"/>
+<area shape="rect" id="node10" href="$namespacegeometrize.html#a8235efcd62ef6bd0478d8fa9dd6df034" title="drawLines Draws scanlines onto an image." alt="" coords="257,143,428,170"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1commonutil.html#a31e1f80ca7a55bd9b85dd8c7e8d4196a" title="clamp Clamps a value within a range." alt="" coords="493,5,676,47"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1_bitmap.html#ac79681e7353058d37a677b2c3e488d0c" title="getPixel Gets a pixel color value." alt="" coords="509,136,660,177"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1_bitmap.html#aa5b22e648397f07c4d7fa44b464d9f64" title="setPixel Sets a pixel color value." alt="" coords="509,71,660,112"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1_bitmap.html#a1fb235e2f98d3b1bffc417a8761a3e4c" title="getHeight Gets the height of the bitmap." alt="" coords="509,267,660,308"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1_bitmap.html#a870373372ffd3c860063d7bf76607d55" title="getWidth Gets the width of the bitmap." alt="" coords="509,201,660,243"/>
+</map>

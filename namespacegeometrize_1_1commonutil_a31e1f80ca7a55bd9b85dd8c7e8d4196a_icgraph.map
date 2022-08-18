@@ -1,0 +1,13 @@
+<map id="geometrize::commonutil::clamp" name="geometrize::commonutil::clamp">
+<area shape="rect" id="node1" title="clamp Clamps a value within a range." alt="" coords="1217,123,1400,164"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1core.html#a9b3c5f53664cf0a84fc1e789a24fd220" title="computeColor Calculates the color of the scanlines." alt="" coords="972,13,1169,55"/>
+<area shape="rect" id="node7" href="$namespacegeometrize.html#a1499eee7a44d06680edb71bfbda56e4b" title=" " alt="" coords="995,79,1146,106"/>
+<area shape="rect" id="node8" href="$namespacegeometrize.html#a77e9effb388d12acd8562b290359e52b" title=" " alt="" coords="735,139,896,166"/>
+<area shape="rect" id="node9" href="$namespacegeometrize.html#a0589c43c713794d3a15e58438a855365" title=" " alt="" coords="1001,181,1141,207"/>
+<area shape="rect" id="node10" href="$namespacegeometrize.html#a9630c35279b01918f6f57614d993b08c" title="trimScanlines Crops the scanning width of an array of scanlines so they do not scan outside of the gi..." alt="" coords="974,231,1167,258"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1core.html#aa18ba66272842344be92e461471ae79c" title="defaultEnergyFunction The default/built&#45;in energy function that calculates a measure of the improveme..." alt="" coords="722,5,909,47"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1_model_1_1_model_impl.html#aaebc9fc36880a499ae2f1b22e3609858" title=" " alt="" coords="5,35,157,76"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1core.html#ae526811239eef4bf30391c951afed129" title="bestHillClimbState Gets the best state using a hill climbing algorithm." alt="" coords="468,5,659,47"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1_model_1_1_model_impl.html#a77eafc18e18103c143d550632c62dfb1" title=" " alt="" coords="205,5,420,47"/>
+<area shape="rect" id="node11" href="$namespacegeometrize_1_1commonutil.html#a62db3f0f4aec70b283f1020cb1df6a87" title="scanlinesContainTransparentPixels Returns true if the scanlines contain transparent pixels in the giv..." alt="" coords="707,217,924,273"/>
+</map>

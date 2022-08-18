@@ -1,0 +1,7 @@
+<map id="geometrize::create" name="geometrize::create">
+<area shape="rect" id="node1" title="create Creates a new shape of the specified type." alt="" coords="985,31,1131,57"/>
+<area shape="rect" id="node2" href="$namespacegeometrize.html#aa1e56bf63963310df173f7c954d24118" title="randomShape Creates a random shape." alt="" coords="743,5,937,32"/>
+<area shape="rect" id="node3" href="$namespacegeometrize.html#a028d2a213502903b8ec2f1b42a6f2aec" title="randomShapeOf Creates a random shape from the types supplied." alt="" coords="485,31,695,57"/>
+<area shape="rect" id="node4" href="$namespacegeometrize.html#ad7edabbca9544e396756965d17b5b747" title="createDefaultShapeCreator Creates an instance of the default shape creator object...." alt="" coords="244,23,437,65"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1_image_runner_1_1_image_runner_impl.html#a2b9045a7df6df49bb6bc89f1e435e1cf" title=" " alt="" coords="5,23,196,65"/>
+</map>

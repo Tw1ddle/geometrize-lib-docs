@@ -1,0 +1,18 @@
+<map id="geometrize::Bitmap::getWidth" name="geometrize::Bitmap::getWidth">
+<area shape="rect" id="node1" title="getWidth Gets the width of the bitmap." alt="" coords="1221,264,1372,305"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1core.html#a8b3c06b7ce98153efba417917ba7c6ed" title="differenceFull Calculates the root&#45;mean&#45;square error between two bitmaps." alt="" coords="945,15,1173,42"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1core.html#ab240d6154564e23772657e408b2775b3" title="differencePartial Calculates the root&#45;mean&#45;square error between the parts of the two bitmaps within t..." alt="" coords="957,100,1162,141"/>
+<area shape="rect" id="node10" href="$namespacegeometrize_1_1exporter.html#aac7807efa1495d55fbe57fdeb98baddd" title="exportBitmapData Exports the raw image data to a binary dump &#45; just the data as RGBA8888,..." alt="" coords="980,165,1139,207"/>
+<area shape="rect" id="node11" href="$namespacegeometrize_1_1exporter.html#af19dd31adcbc080d93b8102229380cb6" title="exportBMP Exports the image data to a RGB888 bitmap image file (BMP)." alt="" coords="980,231,1139,272"/>
+<area shape="rect" id="node12" href="$classgeometrize_1_1_model_1_1_model_impl.html#a42e5492f81938e0b3322f06378187496" title=" " alt="" coords="980,296,1139,337"/>
+<area shape="rect" id="node13" href="$namespacegeometrize_1_1commonutil.html#ada22a603452af9a931e89d0f7283fe44" title="mapShapeBoundsToImage Maps the given shape bound percentages to the given image, returning a bounding..." alt="" coords="958,361,1161,403"/>
+<area shape="rect" id="node15" href="$classgeometrize_1_1_model_1_1_model_impl.html#ae35522a2bb07d55a5876b7e25f849016" title=" " alt="" coords="975,427,1143,468"/>
+<area shape="rect" id="node16" href="$namespacegeometrize_1_1commonutil.html#a62db3f0f4aec70b283f1020cb1df6a87" title="scanlinesContainTransparentPixels Returns true if the scanlines contain transparent pixels in the giv..." alt="" coords="951,493,1168,549"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_model_1_1_model_impl.html#a67a5f35db45bfc0e29b481baa87dcf14" title=" " alt="" coords="726,5,878,47"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1core.html#aa18ba66272842344be92e461471ae79c" title="defaultEnergyFunction The default/built&#45;in energy function that calculates a measure of the improveme..." alt="" coords="709,71,895,112"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1_model_1_1_model_impl.html#aaebc9fc36880a499ae2f1b22e3609858" title=" " alt="" coords="5,100,157,141"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1_model_1_1_model_impl.html#ab8d77fccb4778e9bc60b14c43f705634" title=" " alt="" coords="717,188,887,229"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1core.html#ae526811239eef4bf30391c951afed129" title="bestHillClimbState Gets the best state using a hill climbing algorithm." alt="" coords="468,71,659,112"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1_model_1_1_model_impl.html#a77eafc18e18103c143d550632c62dfb1" title=" " alt="" coords="205,71,420,112"/>
+<area shape="rect" id="node14" href="$classgeometrize_1_1_image_runner_1_1_image_runner_impl.html#a2b9045a7df6df49bb6bc89f1e435e1cf" title=" " alt="" coords="707,361,897,403"/>
+</map>

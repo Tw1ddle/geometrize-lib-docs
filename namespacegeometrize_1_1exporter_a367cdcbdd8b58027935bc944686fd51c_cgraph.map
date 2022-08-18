@@ -1,0 +1,3 @@
+<map id="geometrize::exporter::getSingleShapeSVGData" name="geometrize::exporter::getSingleShapeSVGData">
+<area shape="rect" id="node1" title="getSvgShapeData Gets the SVG data for a single shape. This is just the &lt;rect&gt;/&lt;path&gt; etc block for th..." alt="" coords="5,29,195,71"/>
+</map>

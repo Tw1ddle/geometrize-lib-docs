@@ -1,0 +1,4 @@
+<map id="geometrize::commonutil::mapShapeBoundsToImage" name="geometrize::commonutil::mapShapeBoundsToImage">
+<area shape="rect" id="node1" title="mapShapeBoundsToImage Maps the given shape bound percentages to the given image, returning a bounding..." alt="" coords="244,5,447,47"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1_image_runner_1_1_image_runner_impl.html#a2b9045a7df6df49bb6bc89f1e435e1cf" title=" " alt="" coords="5,5,196,47"/>
+</map>

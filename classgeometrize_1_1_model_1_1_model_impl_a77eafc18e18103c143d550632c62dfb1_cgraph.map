@@ -1,0 +1,16 @@
+<map id="geometrize::Model::ModelImpl::getHillClimbState" name="geometrize::Model::ModelImpl::getHillClimbState">
+<area shape="rect" id="node1" title=" " alt="" coords="5,144,220,185"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1core.html#ae526811239eef4bf30391c951afed129" title="bestHillClimbState Gets the best state using a hill climbing algorithm." alt="" coords="268,111,459,152"/>
+<area shape="rect" id="node13" href="$namespacegeometrize_1_1commonutil.html#a1fc54906eee18e4c638d2ed54f7ecc93" title="seedRandomGenerator Seeds the (thread&#45;local) random number generators." alt="" coords="272,176,455,217"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1core.html#aa18ba66272842344be92e461471ae79c" title="defaultEnergyFunction The default/built&#45;in energy function that calculates a measure of the improveme..." alt="" coords="517,111,704,152"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1core.html#a9b3c5f53664cf0a84fc1e789a24fd220" title="computeColor Calculates the color of the scanlines." alt="" coords="767,27,964,68"/>
+<area shape="rect" id="node7" href="$namespacegeometrize.html#acb0746647a6799ff26ec1405ee927f78" title="copyLines Copies source pixels to a destination defined by a set of scanlines." alt="" coords="781,93,950,119"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1core.html#ab240d6154564e23772657e408b2775b3" title="differencePartial Calculates the root&#45;mean&#45;square error between the parts of the two bitmaps within t..." alt="" coords="763,197,968,239"/>
+<area shape="rect" id="node12" href="$namespacegeometrize.html#a8235efcd62ef6bd0478d8fa9dd6df034" title="drawLines Draws scanlines onto an image." alt="" coords="780,143,951,170"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1commonutil.html#a31e1f80ca7a55bd9b85dd8c7e8d4196a" title="clamp Clamps a value within a range." alt="" coords="1016,5,1199,47"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1_bitmap.html#ac79681e7353058d37a677b2c3e488d0c" title="getPixel Gets a pixel color value." alt="" coords="1032,136,1183,177"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1_bitmap.html#aa5b22e648397f07c4d7fa44b464d9f64" title="setPixel Sets a pixel color value." alt="" coords="1032,71,1183,112"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1_bitmap.html#a1fb235e2f98d3b1bffc417a8761a3e4c" title="getHeight Gets the height of the bitmap." alt="" coords="1032,267,1183,308"/>
+<area shape="rect" id="node11" href="$classgeometrize_1_1_bitmap.html#a870373372ffd3c860063d7bf76607d55" title="getWidth Gets the width of the bitmap." alt="" coords="1032,201,1183,243"/>
+<area shape="rect" id="node14" href="$namespacegeometrize_1_1commonutil.html#a461b82a7903e6875da830a1bfb578226" title=" " alt="" coords="507,183,715,210"/>
+</map>

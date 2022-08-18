@@ -1,0 +1,4 @@
+<map id="geometrize::scanlinesForPolygon" name="geometrize::scanlinesForPolygon">
+<area shape="rect" id="node1" title="scanlinesForPolygon Gets the scanlines for a series of points that make up an arbitrary polygon." alt="" coords="5,5,191,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize.html#afae800100b4018a51e596be58bf9fdc3" title="bresenham Bresenham&#39;s line algorithm. Returns the points on the line." alt="" coords="239,13,416,39"/>
+</map>

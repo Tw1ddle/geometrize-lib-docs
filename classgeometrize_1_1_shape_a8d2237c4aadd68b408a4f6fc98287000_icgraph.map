@@ -1,0 +1,18 @@
+<map id="geometrize::Shape::getType" name="geometrize::Shape::getType">
+<area shape="rect" id="node1" title="getType Gets the ShapeType of the shape." alt="" coords="765,329,917,371"/>
+<area shape="rect" id="node2" href="$namespacegeometrize.html#a5bfce63e2bc3dd99796c427457fec916" title=" " alt="" coords="493,78,717,105"/>
+<area shape="rect" id="node5" href="$namespacegeometrize.html#a7e723d62d37e1de22c0c2a359cce96bd" title=" " alt="" coords="530,262,681,289"/>
+<area shape="rect" id="node8" href="$namespacegeometrize.html#a65d7974f2e9e02930a03ece29fb919d7" title=" " alt="" coords="525,187,686,214"/>
+<area shape="rect" id="node12" href="$namespacegeometrize.html#a073ccded66825b45743294d45c539d60" title=" " alt="" coords="534,337,677,363"/>
+<area shape="rect" id="node13" href="$namespacegeometrize.html#acd033a310749cbb2667afeb6cbb394ab" title=" " alt="" coords="536,411,675,438"/>
+<area shape="rect" id="node14" href="$namespacegeometrize.html#a8bb5f5030ed36a17b33cb2a99482b0c1" title=" " alt="" coords="535,486,675,513"/>
+<area shape="rect" id="node15" href="$namespacegeometrize.html#ab6f0d39a76dcb684f374a23ea06603d2" title=" " alt="" coords="524,561,687,587"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1exporter.html#a812d3e209426d52a90bfd1ce841e6c08" title="exportShapeArray Exports shape data to a compact array&#45;style format. Data is three lines per shape,..." alt="" coords="265,71,424,112"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1exporter.html#a65468e6cc995eda23ee61317ff3e9d26" title="exportShapeJson Exports shape data to JSON." alt="" coords="265,5,424,47"/>
+<area shape="rect" id="node6" href="$namespacegeometrize.html#ad7edabbca9544e396756965d17b5b747" title="createDefaultShapeCreator Creates an instance of the default shape creator object...." alt="" coords="248,289,441,331"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1_image_runner_1_1_image_runner_impl.html#a2b9045a7df6df49bb6bc89f1e435e1cf" title=" " alt="" coords="5,289,196,331"/>
+<area shape="rect" id="node9" href="$namespacegeometrize.html#ad3769acd38f51877395c5bbb9c0485a8" title=" " alt="" coords="245,137,445,163"/>
+<area shape="rect" id="node10" href="$namespacegeometrize.html#a398552919d933c19a2608d6368c9f6fa" title=" " alt="" coords="244,187,445,214"/>
+<area shape="rect" id="node11" href="$namespacegeometrize.html#a23031cb273aacce5c07ff96cf64daf36" title=" " alt="" coords="247,238,442,265"/>
+<area shape="rect" id="node16" href="$namespacegeometrize.html#a8623953055157af8a136f825ca504a11" title=" " alt="" coords="273,561,416,587"/>
+</map>

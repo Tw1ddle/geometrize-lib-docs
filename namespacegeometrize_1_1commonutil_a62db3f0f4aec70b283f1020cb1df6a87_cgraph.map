@@ -1,0 +1,8 @@
+<map id="geometrize::commonutil::scanlinesContainTransparentPixels" name="geometrize::commonutil::scanlinesContainTransparentPixels">
+<area shape="rect" id="node1" title="scanlinesContainTransparentPixels Returns true if the scanlines contain transparent pixels in the giv..." alt="" coords="5,97,223,153"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1_bitmap.html#a1fb235e2f98d3b1bffc417a8761a3e4c" title="getHeight Gets the height of the bitmap." alt="" coords="292,5,443,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_bitmap.html#ac79681e7353058d37a677b2c3e488d0c" title="getPixel Gets a pixel color value." alt="" coords="292,71,443,112"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1_bitmap.html#a870373372ffd3c860063d7bf76607d55" title="getWidth Gets the width of the bitmap." alt="" coords="292,136,443,177"/>
+<area shape="rect" id="node5" href="$namespacegeometrize.html#a9630c35279b01918f6f57614d993b08c" title="trimScanlines Crops the scanning width of an array of scanlines so they do not scan outside of the gi..." alt="" coords="271,202,464,229"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1commonutil.html#a31e1f80ca7a55bd9b85dd8c7e8d4196a" title="clamp Clamps a value within a range." alt="" coords="512,195,695,236"/>
+</map>

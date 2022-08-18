@@ -1,0 +1,5 @@
+<map id="geometrize::setup" name="geometrize::setup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,145,39"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1commonutil.html#a02e0de9d804068f7720402410bd1f390" title="randomRange Returns a random integer in the range, inclusive. Uses thread&#45;local random number generat..." alt="" coords="193,5,376,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1commonutil.html#a461b82a7903e6875da830a1bfb578226" title=" " alt="" coords="424,13,632,39"/>
+</map>
